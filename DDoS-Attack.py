@@ -22,7 +22,7 @@ print ('''
    || ##########################################################
    || ##########################################################
    || ---------                                              ###
-   ||  +++ Application Developer : WariorX1                   ###
+   ||  +++ Application Developer : WariorX1                  ###
    || ---------                                              ###
    || +++ Note : You Can Stop The Attack By Press : CTRL + Z ###
    || ---------                                              ###
